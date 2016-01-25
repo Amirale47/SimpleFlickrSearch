@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\photos_fragment.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\layout\\photos_fragment.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\search_fragment.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\layout\\search_fragment.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\photo_item_page.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\layout\\photo_item_page.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friends.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\layout\\activity_friends.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\photo_info.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\layout\\photo_info.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\flipper.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\FlickrSearchGradle\\swipLib\\unspecified\\res\\layout\\flipper.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    }
+]

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Flickr Search App</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_text_hint">Type a flickr tag...</string>
+    <string name="button_label">Search</string>
+    
+    <string name="right_mage">Right Image</string>
+    <string name="left_mage">Left Image</string>
+    
+    <string name="searching">Searching...</string>
+    
+    <!-- To sue for search drawing -->
+    <string name="path_search">
+       M141,17 A9,9 0 1,1 142,16 L149,23
+    </string>
+</resources>

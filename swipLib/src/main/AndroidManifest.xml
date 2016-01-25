@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yalantis.flipviewpager">
+    <uses-sdk 
+        android:minSdkVersion="19"
+        />
+    <application android:allowBackup="true">
+
+    </application>
+
+</manifest>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\anim\\anim_bar_fill.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\anim\\anim_bar_fill.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\anim\\anim_search_empty.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\anim\\anim_search_empty.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

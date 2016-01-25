@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bar_icon.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\search_bar_icon.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\irene.png",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\irene.png"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bar.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\search_bar.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\anim_bar_to_search.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\anim_bar_to_search.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\imageholder.png",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\imageholder.png"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\kate.png",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\kate.png"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\anim_search_to_bar.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\anim_search_to_bar.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\daria.png",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\daria.png"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\round_textview.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\round_textview.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\anastasia.png",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\anastasia.png"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\yalantis.png",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\yalantis.png"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\paul.png",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\paul.png"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\kirill.png",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\kirill.png"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\julia.png",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\src\\main\\res\\drawable\\julia.png"
+    },
+    {
+        "merged": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\Projects\\Android\\FlickrSearchGradle\\flickrSearchApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    }
+]
